@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><strong>OHai! Just another opensource enthusiast here :)</strong></p>
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=HritwikSinghal&style=flat-square" alt="HritwikSinghal"></p>
+<p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
+<p align="center"><a href="https://github.com/HritwikSinghal"><img src="https://github-readme-stats.vercel.app/api?username=HritwikSinghal&show_icons=true&theme=highcontrast"></a></p>
+<p align="center"><a href="https://github.com/HritwikSinghal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HritwikSinghal&theme=highcontrast&layout=compact"></a></p>
+<p align="center"><strong>Looking for something & Didn't find here? Connect on Telegram @dev_harsh1998<strong></p>
