@@ -27,11 +27,10 @@ Things I'm currently tinkering with:
 
 <br>
 
-<div align="center">
-  <img width="43%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HritwikSinghal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HritwikSinghal&theme=tokyonight&layout=compact&langs_count=5&hide=c,roff" alt="Top Languages" />
-</div>
+Here are some useless stats for those curious about my activity xD
+<!-- Thanks to https://github.com/stats-organization/github-stats-extended -->
 
 <div align="center">
-  <img width="89%" src="https://github-readme-activity-graph.vercel.app/graph?username=HritwikSinghal&theme=tokyo-night" alt="Activity Graph" />
+  <img width="41%" src="https://github-stats-extended.vercel.app/api?username=hritwiksinghal&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs?username=hritwiksinghal&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
